@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">sportsoccer</string>
+    <string name="facebook_app_id">415818241625826</string>
+    <string name="fb_login_protocol_scheme">fb415818241625826</string>
+    <string name="facebook_client_token">ec0937080d0324bbc375e338b896e28d</string>
+</resources>

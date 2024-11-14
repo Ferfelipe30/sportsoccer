@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424364427694",
+    "project_id": "sportsoccer-1e252",
+    "storage_bucket": "sportsoccer-1e252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424364427694:android:1ac8730f90f0f5b0b0a03f",
+        "android_client_info": {
+          "package_name": "com.juanfelipe.sportsoccer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuvGGcLcctKdkDmPc24TQTE-YowhEItTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
